@@ -1,0 +1,9 @@
+[submodule "core/boilerplate"]
+	path = core/boilerplate
+	url = https://github.com/h5bp/html5-boilerplate.git
+[submodule "core/bootstrap"]
+	path = core/bootstrap
+	url = https://github.com/twitter/bootstrap.git
+[submodule "core/font-awesome"]
+	path = core/font-awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
