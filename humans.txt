@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Nikola Milekic
+    Site: www.nikolamilekic.com
+    Twitter: nmilekic
+    Google+: plus.google.com/112097834878035591245
+    Facebook: facebook.com/nikolamilekic
+    Location: Leutkirch, Germany
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    jQuery, Modernizr
+    HTML5 Boilerplate (http://html5boilerplate.com/)
+    Twitter Bootstrap (http://twitter.github.com/bootstrap)
+    FontAwesome (http://fortawesome.github.io/Font-Awesome/)
